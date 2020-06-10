@@ -1,0 +1,16 @@
+ul.navbar {
+    display: inline-block;
+    margin: 0;
+    padding: 20px;
+    width: 100%;
+    background: black;
+}
+
+ul.navbar li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+ul.navbar li a {
+    color: white;
+}
